@@ -4,7 +4,7 @@
 - 📫 How to reach me: **agilanh100@gmail.com**
 - ⚡ Fun fact: **I'm short**
 
-<a href="https://ca.linkedin.com/in/arun-hariharan-885593244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
+<a href="https://www.linkedin.com/in/agilan-hariharan-49a7a3305/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
 
 <h3 align="left">💻 Languages:</h3>
 <p align="left"> 
